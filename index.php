@@ -11,9 +11,9 @@
     <h1>Página Inicial dos Conversores</h1>
 
     <div class="links-container">
-        <a href="calculadora_media.html" class="link-button">Calculadora de Média</a>
-        <a href="calculadora_rendimento.html" class="link-button">Calculadora de Rendimento</a>
-        <a href="calculadora_preco_venda.html" class="link-button">Calculadora de Preço de Venda</a>
+        <a href="media-final.php" class="link-button">Calculadora de Média</a>
+        <a href="rendimento.php" class="link-button">Calculadora de Rendimento</a>
+        <a href="venda.php" class="link-button">Calculadora de Preço de Venda</a>
     </div>
 
 </body>
